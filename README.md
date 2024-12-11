@@ -10,7 +10,7 @@
 </p>
 
 
-- 🤙 **Panggil saja AL atau Boyy.**
+- 🤙 **Panggil aja All atau Boyy.**
 - 💪 **Ayo kerjasama mengerjakan suatu project.**
 - ✨ Tanya saya tentang **Beberapa Languanges and Tools yang saya gunakan.**
 - ⚡ Fun fact **Saya tidak suka musik tapi saya seorang Disc Jockey.**
@@ -93,9 +93,16 @@
 
 ---
 
-<h3 align="left">DevialdiMp GitHub Stats:</h3>
+<h3 align="left">Contribution Chart:</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devialdimp&theme=dark" alt="GitHub Streak" />
-  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devialdimp&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devialdimp&theme=dark" alt="GitHub Streak" />
+  <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devialdimp&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
