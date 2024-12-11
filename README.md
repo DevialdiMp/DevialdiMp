@@ -106,3 +106,7 @@
   <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devialdimp&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
+<div align="center">
+<img src="https://github.com/DevialdiMp/DevialdiMp/blob/output/github-snake-dark.svg" alt="Snake Game" />
+</div>
