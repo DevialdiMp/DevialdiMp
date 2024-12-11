@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=devialdimp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
+
 - 🤙 **Panggil saja AL atau Boyy.**
 - 💪 **Ayo kerjasama mengerjakan suatu project.**
 - ✨ Tanya saya tentang **Beberapa Languanges and Tools yang saya gunakan.**
