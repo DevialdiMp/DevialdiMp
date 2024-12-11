@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/JackGraymer/JackGraymer/main/src/img/javascript.gif)
+[![MasterHead](https://raw.githubusercontent.com/JackGraymer/JackGraymer/main/src/img/javascript.gif)](https://instagram.com/aaldb_)
 
 <h1 align="center">Hi 👋, Saya Devialdi Maisa Putra</h1>
 <h3 align="center">Web Developer</h3>
