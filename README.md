@@ -93,13 +93,13 @@
 
 ---
 
-<h3 align="left">Contribution Chart:</h3>
+<!--   <h3 align="left">Contribution Chart:</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devialdimp&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
-
+-->
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devialdimp&theme=dark" alt="GitHub Streak" />
