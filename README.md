@@ -26,7 +26,7 @@
   <a href="https://instagram.com/@aaldb_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/@djdaboyy" target="_blank">
+  <a href="https://www.youtube.com/@djdaboyy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://discord.gg/devialdimp" target="_blank">
