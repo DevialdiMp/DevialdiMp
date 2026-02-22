@@ -5,7 +5,13 @@
 </p>
 
 <div align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=250&section=header&text=Devialdi%20Maisa%20Putra&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Web%20Developer%20%7C%20DEVMP%20Solutions&descAlignY=55&descAlign=50" width="100%" />
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Architecture+Enthusiast;Laravel+%7C+NodeJS+%7C+C%2B%2B;Open+for+Collaboration+🚀;Building+Modern+Web+Apps" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=devialdimp&label=Profile+Views&color=00f7ff&style=for-the-badge" />
+</div>
 # 👋 Hi, Saya Devialdi Maisa Putra
 ### 🚀 Web Developer | DEVMP Solutions
 
