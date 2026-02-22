@@ -1,36 +1,38 @@
-<!-- ================= HEADER BANNER ================= -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JackGraymer/JackGraymer/main/src/img/javascript.gif" width="100%" />
-</p>
-
 <div align="center">
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=250&section=header&text=Devialdi%20Maisa%20Putra&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Web%20Developer%20%7C%20DEVMP%20Solutions&descAlignY=55&descAlign=50" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Architecture+Enthusiast;Laravel+%7C+NodeJS+%7C+C%2B%2B;Open+for+Collaboration+🚀;Building+Modern+Web+Apps" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=devialdimp&label=Profile+Views&color=00f7ff&style=for-the-badge" />
-</div>
-# 👋 Hi, Saya Devialdi Maisa Putra
-### 🚀 Web Developer | DEVMP Solutions
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+%7C+NodeJS+%7C+Backend+Developer;Open+for+Collaboration+🚀;Building+Modern+Web+Apps" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:020617,100:00ff99&height=300&section=header&text=DEVIALDI%20MAISA%20PUTRA&fontSize=54&fontAlignY=36&animation=fadeIn&fontColor=00ff99&desc=Founder%20%7C%20Fullstack%20Developer%20%7C%20Server%20Engineer&descAlignY=60" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=devialdimp&label=Profile+Views&color=00f7ff&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=%24+Initializing+DEVMP.exe...;%24+Loading+Startup+Vision...;%24+Building+Scalable+Systems;%24+Laravel+%7C+NodeJS+%7C+React+%7C+Cloud;%24+Freelance+%7C+Hiring+%7C+Collaboration+Ready;%24+Access+Granted+✔" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00ff99?style=for-the-badge&logo=hackaday&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Startup-DEVMP%20Solutions-020617?style=for-the-badge&logo=vercel&logoColor=00ff99" />
+
+<img src="https://img.shields.io/badge/Mode-Founder%20%7C%20Engineer-020617?style=for-the-badge&logo=linux&logoColor=00ff99" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=devialdimp&label=VISITORS&color=00ff99&style=for-the-badge" />
 
 </div>
 
 ---
+## 👨‍💻 System Profile
 
-## 👨‍💻 Tentang Saya
+<img align="right" alt="coding" width="280" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+</br>
 
-- 🤙 Panggil aja **All** atau **Boyy**
-- 💪 Terbuka untuk kolaborasi project
-- ✨ Tanya saya seputar **Languages & Tools**
-- ⚡ Fun fact: Tidak suka musik tapi seorang **DJ 🎧**
+
+- Name: Devialdi Maisa Putra
+- Alias: Al or Daboyy
+- Role: Founder & Fullstack Engineer
+- Company: DEVMP Solutions
+- Fun Fact: 
+I don't like music but I'm a disc jockey
 
 ---
 
@@ -58,24 +60,10 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧠🛠️ Languages & Tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,php,js,laravel,bootstrap,cpp,nodejs,express,mysql,postgres,git,aws,bash,figma,firebase,gcp&perline=8" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devialdimp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=devialdimp&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
+<img src="https://skillicons.dev/icons?i=html,css,php,js,laravel,bootstrap,cpp,nodejs,express,mysql,postgres,git,aws,bash,docker,cloudflare,firebase,react,gcp&perline=8" />
 </div>
 
 ---
